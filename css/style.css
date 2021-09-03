@@ -198,7 +198,7 @@ b,strong {
 	z-index: 5;
 	width: 24px;
 	height: 14px;
-	background: url(../op_tag.png) no-repeat
+	background: url(/img/op_tag.png) no-repeat
 }
 
 .mt {
@@ -873,7 +873,7 @@ b,strong {
 	width: 240px;
 	height: 158px;
 	margin-bottom: 37px;
-	background: #e5e5e5 url(../defaultpic.gif) no-repeat
+	background: #e5e5e5 url(/img/defaultpic.gif) no-repeat
 }
 
 .image li img {
@@ -888,7 +888,7 @@ b,strong {
 
 .main-left .list li {
 	position: relative;
-	background: url(../li.png) repeat-x center;
+	background: url(/img/li.png) repeat-x center;
 	line-height: 35px
 }
 
@@ -1098,7 +1098,7 @@ b,strong {
 .likearticle li {
 	padding-left: 25px;
 	list-style-type: none;
-	background: url(../icon-like.gif) no-repeat left center;
+	background: url(/img/icon-like.gif) no-repeat left center;
 	font-size: 1pc;
 	line-height: 30px;
 	height: 30px;
@@ -1139,7 +1139,7 @@ b,strong {
 
 .more-content .more-content-text:after {
 	content: "";
-	background-image: url(../more-content-text.png);
+	background-image: url(/img/more-content-text.png);
 	background-repeat: no-repeat;
 	background-position: 0 0;
 	background-size: 16px 16px;
@@ -1309,14 +1309,14 @@ b,strong {
 	margin: 20px auto;
 	width: 138px;
 	height: 39px;
-	background: transparent url(../support-logo.png) no-repeat scroll left center;
+	background: transparent url(/img/support-logo.png) no-repeat scroll left center;
 	text-align: center
 }
 
 .support .support-title {
 	width: 100%;
 	height: 66px;
-	background: url(../support-title.jpg);
+	background: url(/img/support-title.jpg);
 	color: #666;
 	text-align: center;
 	font-size: 16px;
@@ -1338,7 +1338,7 @@ b,strong {
 
 .support .support-qrcode:before {
 	content: "";
-	//**background: url(../support-icon.png) no-repeat;**//
+	//**background: url(/img/support-icon.png) no-repeat;**//
 	position: absolute;
 	left: 64px;
 	top: 64px;
@@ -1371,11 +1371,11 @@ b,strong {
 	margin-right: 14px;
 	width: 16px;
 	height: 16px;
-	background: url(../support-radio.jpg)
+	background: url(/img/support-radio.jpg)
 }
 
 .support .support-checked .support-radio {
-	background: url(../support-radio-checked.jpg)
+	background: url(/img/support-radio-checked.jpg)
 }
 
 .support .support-pay-logo {
@@ -1389,11 +1389,11 @@ b,strong {
 }
 
 .support .support-pay-logo.alipay {
-	background-image: url(../support-alipay-logo.png)
+	background-image: url(/img/support-alipay-logo.png)
 }
 
 .support .support-pay-logo.wechat {
-	background-image: url(../support-wechat-logo.png)
+	background-image: url(/img/support-wechat-logo.png)
 }
 
 .support .support-select {
@@ -1653,7 +1653,7 @@ b,strong {
 	width: 14px;
 	height: 16px;
 	margin-right: 5px;
-	background: url(../icon-police.png) 0 0 no-repeat;
+	background: url(/img/icon-police.png) 0 0 no-repeat;
 	vertical-align: middle;
 	margin-top: -4px
 }
@@ -2075,7 +2075,7 @@ b,strong {
 }
 
 @font-face {
-	font-family:iconfont;src:url(../iconfont.eot);src:url(iconfont.eot) format('embedded-opentype'),url(../iconfont.woff) format('woff'),url(../iconfont.ttf) format('truetype'),url(../iconfont.svg) format('svg')
+	font-family:iconfont;src:url(/fonts/iconfont.eot);src:url(iconfont.eot) format('embedded-opentype'),url(/fonts/iconfont.woff) format('woff'),url(/fonts/iconfont.ttf) format('truetype'),url(/fonts/iconfont.svg) format('svg')
 }
 
 .iconfont {
